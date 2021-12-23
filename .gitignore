@@ -1,0 +1,5 @@
+# ignore slprj directories
+**/slprj
+
+# ignore simulink cache files
+*.slxc
